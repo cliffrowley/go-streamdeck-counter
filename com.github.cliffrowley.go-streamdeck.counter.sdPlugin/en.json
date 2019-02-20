@@ -1,0 +1,8 @@
+{
+  "Description": "Displays the number of times a button has been pressed.", 
+  "Name": "Counter", 
+  "com.github.cliffrowley.go-streamdeck.counter": {
+    "Name": "Counter", 
+    "Tooltip": "Displays the number of times a button has been pressed."
+  }
+}
